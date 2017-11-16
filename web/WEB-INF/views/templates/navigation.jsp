@@ -8,11 +8,11 @@
 
 <div class="navigation">
     <ul class="nav nav-tabs">
-        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}/">Tab 1</a></li>
-        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Tab 2</a> </li>
-        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Tab 3</a></li>
-        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Tab 4</a> </li>
-        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Tab 5</a></li>
+        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}/">Home</a></li>
+        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}/full">Full</a> </li>
+        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">UploadFile</a></li>
+        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Spec</a> </li>
+        <li class="nav-tab"><a class="nav-link" href="${pageContext.request.contextPath}#">Help</a></li>
     </ul>
 </div>
 
